@@ -1,0 +1,13 @@
+{
+  "name": "orbit-chatbot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Orbit: a general-purpose AI chatbot powered by Groq, deployable on Vercel.",
+  "scripts": {
+    "dev": "node dev-server.js",
+    "test": "node test/chat.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
